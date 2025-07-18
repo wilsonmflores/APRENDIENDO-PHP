@@ -1,5 +1,6 @@
 <!-- Utiliza la Funcion filter_var para comprobar  si el email que nos llega 
 por la URL es un email Valido-->
+<h1>EJERCICIO 20</h1>
 <?php
 
 function  validateEmail($email){
